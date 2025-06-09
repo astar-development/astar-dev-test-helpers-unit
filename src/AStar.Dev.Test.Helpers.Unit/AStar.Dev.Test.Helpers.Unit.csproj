@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
         <AnalysisLevel>latest-recommended</AnalysisLevel>
@@ -47,7 +47,7 @@
     </ItemGroup>
 
     <ItemGroup>
-        <PackageReference Include="AStar.Dev.Utilities" Version="1.6.0"/>
+        <PackageReference Include="AStar.Dev.Utilities" Version="1.6.1"/>
         <PackageReference Include="Shouldly" Version="4.3.0"/>
     </ItemGroup>
 
